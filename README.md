@@ -1,2 +1,2 @@
 # family guy tv epic edition
-Compilation of all the family guy tv mods
+compilation of the family guy tv mods
