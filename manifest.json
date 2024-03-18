@@ -1,7 +1,7 @@
 {
 	"name": "family_guy_tv_epic_edition",
     "description": "Compilation of all the family guy tv mods",
-    "version_number": "0.0.2",
+    "version_number": "0.1.0",
     "website_url": "https://github.com/rickdgray/family_guy_tv_epic_edition",
 	"dependencies": [
         "DeathWrench-BestestTelevisionMod-0.0.9",
